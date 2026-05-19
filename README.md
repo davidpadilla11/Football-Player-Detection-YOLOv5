@@ -49,7 +49,8 @@ Different execution and training parameters were configured and tested during th
 - Batch size
 - Image resolution
 - Dataset configuration through `.yaml` files
-- Usage of pretrained weights (`yolov5s.pt`)
+- Usage of pretrained YOLOv5 models (`yolov5s.pt`)
+- Usage of the generated `best.pt` model for detection tests
 
 The notebook also included training metrics and performance graphs originally provided in the Kaggle reference notebook. These graphs were analyzed as part of the learning process to better understand model behavior and inference results.
 
