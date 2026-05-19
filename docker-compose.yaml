@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  jupyter:
+    image: jupyter/datascience-notebook:latest
+    ports:
+      - "8889:8888"
+    volumes:
+      - ./notebooks:/home/jovyan
+    environment:
+      - JUPYTER_TOKEN=juan2002
+    shm_size: '8g'
+    restart: always
