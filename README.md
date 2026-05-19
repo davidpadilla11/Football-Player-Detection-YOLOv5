@@ -106,6 +106,11 @@ Final detection examples and Jupyter Notebook execution screenshots are included
   <img src="results/totVSmanunited.png" width="800"/>
 </p>
 
+## Video Demonstration
+
+## Video Demonstration
+A short demonstration video of the football player detection results is included in the `video` folder of this repository.
+
 ---
 
 ## References
