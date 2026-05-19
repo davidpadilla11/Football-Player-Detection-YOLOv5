@@ -61,6 +61,10 @@ The project was executed locally using Docker and Jupyter Notebook as part of th
   <img src="Jupyter.png" width="900"/>
 </p>
 
+<p align="center">
+  <img src="Jupyter2.png" width="900"/>
+</p>
+
 ---
 
 ## Results
