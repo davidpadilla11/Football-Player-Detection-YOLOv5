@@ -53,6 +53,14 @@ Different execution and training parameters were configured and tested during th
 
 The notebook also included training metrics and performance graphs originally provided in the Kaggle reference notebook. These graphs were analyzed as part of the learning process to better understand model behavior and inference results.
 
+## Local Jupyter Environment
+
+The project was executed locally using Docker and Jupyter Notebook as part of the laboratory environment configuration.
+
+<p align="center">
+  <img src="Jupyter.png" width="900"/>
+</p>
+
 ---
 
 ## Results
