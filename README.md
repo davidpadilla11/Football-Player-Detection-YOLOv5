@@ -108,8 +108,11 @@ Final detection examples and Jupyter Notebook execution screenshots are included
 
 ## Video Demonstration
 
-## Video Demonstration
-A short demonstration video of the football player detection results is included in the `video` folder of this repository.
+The trained and configured YOLOv5 model was also tested on a football highlights video from UEFA Euro 2024.
+
+The objective of this test was to analyze player detection, ball detection, and basic team classification in dynamic match situations using video inference.
+
+The demonstration video is available in the `video` folder of this repository.
 
 ---
 
